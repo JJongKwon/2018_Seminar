@@ -1,5 +1,6 @@
 # Seminar
 2018 seminar
+[Ordinary Least Squares](http://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares)
 <table>
     <thead>
         <tr>
