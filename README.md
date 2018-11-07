@@ -10,7 +10,7 @@
     </thead>
     <tbody>
         <tr>
-            <td>[Ordinary Least Squares](http://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares)</td>
+            <td> [Ordinary Least Squares](http://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares) </td>
             <td>[linear_model.LinearRegression](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html#sklearn.linear_model.LinearRegression)</td>
             <td>Ordinary least squares Linear Regression.</td>
         </tr>
