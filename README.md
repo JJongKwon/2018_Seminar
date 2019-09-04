@@ -1,2 +1,1 @@
-# Seminar
-2018 seminar
+# 2018_seminar
